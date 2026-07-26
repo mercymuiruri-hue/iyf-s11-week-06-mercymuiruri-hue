@@ -28,9 +28,6 @@ Learned how to set up GitHub profile pages, write well-formatted Markdown docume
 ## Challenges Faced
 Navigated mobile Git workflows and configured profile repository markdown files correctly.
 
-## Screenshots (optional)
-![Profile Setup Preview](path/to/screenshot.png)
-
 ## Live Demo (if deployed)
 [View Live Demo](https://your-deployment-url.com)
 # iyf-s11-week-6-mercymuiruri-hue
